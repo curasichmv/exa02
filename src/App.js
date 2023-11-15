@@ -9,14 +9,6 @@ function App() {
         <h2>Instituto Superior Honorio Delgado Espinoza</h2>
         <h4>Curasi Chavez Mertha Victoria</h4>
         <h4>NOCHE</h4>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
